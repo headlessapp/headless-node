@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "common.js",
+  "sourceRoot": "../../src/headless-node/",
+  "sources": [
+    "common.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;CAAA,KAAA;;CAAA,CAAA,CACE,GADF;CACE,CAAA,EAAA,GAAM;CAAN,CACM,EAAN,EAAM,CAAA;CADN,CAEM,CAAA,CAAN,GAAM;CAFN,CAGM,EAAN,GAAM,KAAA;CAJR,GAAA;;CAAA,CAMA,CAAe,EAAf,CAAM,GAAS;CACb,OAAA;CAAA,EAAI,CAAJ,CAAI,CAAM;CACR,CAAW,IAAb,CAAA,IAAA;CARF,EAMe;;CANf,CAUA,CAAiB,GAAX,CAAN;CAVA"
+}

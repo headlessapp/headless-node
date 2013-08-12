@@ -1,0 +1,36 @@
+{
+    "name": "headless-node",
+    "version": "0.0.1",
+    "author": "Matthew Rudy Jacobs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/headlessapp/headless-node.git"
+    },
+    "dependencies": {
+        "q": "",
+        "underscore": ""
+    },
+    "devDependencies": {
+        "blanket": "",
+        "chai": "",
+        "coffee-script": "",
+        "glob": "",
+        "grunt": "",
+        "grunt-contrib-coffee": "",
+        "grunt-contrib-watch": "",
+        "grunt-merge": "",
+        "grunt-mocha-test": "",
+        "grunt-release": "",
+        "grunt-rename": "",
+        "grunt-text-replace": "",
+        "mocha": "",
+        "prompt": "",
+        "source-map-support": "",
+        "sinon": ""
+    },
+    "license": "MIT",
+    "main": "./lib/headless-node.js",
+    "scripts": {
+        "test": "mocha test/test.js --reporter spec"
+    }
+}

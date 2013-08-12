@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "headless-node.js",
+  "sourceRoot": "../src/",
+  "sources": [
+    "headless-node.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;CAAA,KAAA,wBAAA;;CAAA;CAAA,MAAA,IAAA;uBAAA;CACE,EAAW,CAAX,EAAM,KAAN;CADF,EAAA;;CAAA,CAGA,CAAuB,GAAjB,CAAN;CACe,EAAA,CAAA,kBAAA;;CAAb;;CAJF;CAAA"
+}

@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+(function() {
+  var HeadlessNode;
+
+  HeadlessNode = require("../lib/headless-node");
+
+  new HeadlessNode;
+
+}).call(this);
